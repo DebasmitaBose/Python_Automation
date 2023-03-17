@@ -1,5 +1,7 @@
 Created by Debasmita Bose - Version 1.0 - 18/04/2022
+---------------------------------------------------------------------------
 Python Version 2.7
+---------------------------------------------------------------------------
 This script performs health checks on RHEL/Centos Operating Systems esp. for Pre-Patch and Post-Patch Health Check details.
 
 Copy the Script under desired folder in the server
