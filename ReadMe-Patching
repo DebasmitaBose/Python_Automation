@@ -1,1 +1,14 @@
+README for RHEL_CENTOS_Healthcheck_Patching_Version1-0.py
 
+######################################
+Python Version 2.7
+######################################
+
+The above script will be a complete Patching Script for Linux (RHEL,CentOS)platforms which will perform necessary healthchecks as well as Live Patching using yum 
+
+To run the same
+
+Sudo to Root User
+chmod 755 RHEL_CENTOS_Healthcheck_Patching_Version1-0.py
+
+python2.7 RHEL_CENTOS_Healthcheck_Patching_Version1-0.py
